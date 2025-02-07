@@ -1,0 +1,242 @@
+absl-py==1.0.0
+aiohttp==3.8.3
+aiosignal==1.2.0
+alabaster==0.7.12
+apptools==5.2.0
+argcomplete @ file:///tmp/build/80754af9/argcomplete_1618920853202/work
+arrow==1.2.2
+arviz==0.12.1
+asgiref==3.5.2
+async-timeout==4.0.2
+asynctest==0.13.0
+atomicwrites==1.4.0
+attrs==21.4.0
+autograd==1.4
+Babel==2.10.3
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+CacheControl==0.12.11
+cachetools==5.0.0
+cachy==0.3.0
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+cffi==1.15.0
+cftime==1.6.2
+charset-normalizer==2.0.12
+cleo==0.8.1
+click @ file:///C:/ci/click_1646038601470/work
+clikit==0.6.2
+cloudpickle==2.1.0
+cma==2.7.0
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+comm==0.1.4
+configobj==5.0.6
+crashtest==0.3.1
+cryptography==37.0.2
+cvxopt==1.3.0
+cycler==0.11.0
+Cython==0.29.28
+debugpy @ file:///C:/ci/debugpy_1637091911212/work
+decorator==5.1.1
+deprecat==2.1.1
+dill==0.3.5.1
+distlib==0.3.4
+Django==3.2.13
+dlx==1.0.4
+docplex==2.23.222
+docutils==0.18.1
+EDAspy==0.2.0
+emoji==1.7.0
+entrypoints==0.3
+envisage==6.1.0
+et-xmlfile==1.1.0
+fastdtw==0.3.4
+fastprogress==1.0.3
+filelock==3.6.0
+flake8 @ file:///opt/conda/conda-bld/flake8_1648129545443/work
+fonttools==4.33.3
+frozenlist==1.3.1
+future==0.18.2
+google-auth==2.6.6
+google-auth-oauthlib==0.4.6
+GPy==1.10.0
+GPyOpt==1.2.6
+gpytorch==1.8.1
+graphviz==0.20
+grpcio==1.44.0
+gym==0.25.1
+gym-notices==0.0.7
+h5py==3.7.0
+html5lib==1.1
+idna==3.3
+imageio==2.19.0
+imagesize==1.4.1
+imgaug==0.4.0
+importlib-metadata @ file:///C:/ci/importlib-metadata_1648562631189/work
+importlib-resources==5.7.1
+inflection==0.5.1
+iniconfig==1.1.1
+ipdb==0.13.13
+ipykernel==6.12.1
+ipython @ file:///C:/ci/ipython_1643800131373/work
+ipython-genutils==0.2.0
+ipywidgets==8.1.1
+ismember==1.0.2
+jedi @ file:///C:/ci/jedi_1644297241925/work
+Jinja2==3.1.2
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+jsonschema==4.5.1
+jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
+jupyter-core @ file:///C:/ci/jupyter_core_1646976467633/work
+jupyterlab-widgets==3.0.9
+keyring==22.3.0
+kiwisolver==1.4.2
+lockfile==0.12.2
+Markdown==3.3.6
+MarkupSafe==2.1.1
+marshmallow==3.15.0
+marshmallow-polyfield==5.10
+matplotlib==3.5.3
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+mayavi==4.8.0
+mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
+minepy==1.2.6
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-service==2.4.0
+more-itertools==8.13.0
+mpmath==1.2.1
+msgpack==1.0.3
+multidict==6.0.2
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+netCDF4==1.5.8
+networkx==2.6.3
+nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
+ntlm-auth==1.5.0
+numexpr==2.8.6
+numpy==1.21.5
+numpydoc==1.4.0
+oauthlib==3.2.0
+opencv-contrib-python==4.6.0.66
+opencv-python==4.5.5.64
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.3.5
+paramz==0.9.5
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pastel==0.2.1
+patsy==0.5.3
+pexpect==4.8.0
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.5.0
+pkginfo==1.8.2
+platformdirs==2.5.2
+pluggy==1.0.0
+ply==3.11
+pods==0.1.14
+poetry-core==1.0.8
+point-cloud-utils==0.27.0
+prettytable==3.7.0
+proj==0.2.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+protobuf==3.20.1
+psutil==5.9.0
+ptyprocess==0.7.0
+py==1.11.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pybind11==2.9.2
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
+pycparser==2.21
+pyDOE2==1.3.0
+pyface==7.4.2
+pyflakes @ file:///tmp/build/80754af9/pyflakes_1636644436481/work
+pygame==2.1.0
+pygco==0.0.16
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pylev==1.4.0
+pymoo==0.5.0
+pyparsing==3.0.8
+pyperclip==1.8.2
+pyrsistent==0.18.1
+pyshp==2.3.1
+pytest==7.1.2
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytorchyolo==1.6.2
+pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
+PyWavelets==1.3.0
+pywin32==302
+pywin32-ctypes==0.2.0
+PyYAML==6.0.1
+pyzmq==19.0.2
+qiskit==0.16.0
+qiskit-aer==0.4.0
+qiskit-aqua==0.6.4
+qiskit-ibmq-provider==0.5.0
+qiskit-ignis==0.2.0
+qiskit-terra==0.12.0
+Quandl==3.7.0
+radian==0.6.3
+rchitect==0.3.36
+regex @ file:///C:/ci/regex_1658240061426/work
+requests==2.27.1
+requests-ntlm==1.1.0
+requests-oauthlib==1.3.1
+requests-toolbelt==0.9.1
+rpy2==3.4.1
+rsa==4.8
+scikit-image==0.19.2
+scikit-learn @ file:///C:/ci/scikit-learn_1642599122269/work
+scipy @ file:///C:/ci/scipy_1661333074914/work
+scipydirect==1.1
+semver==3.0.1
+shellingham==1.4.0
+six==1.16.0
+smt @ git+https://github.com/SMTOrg/smt.git@8abaffe26c39d7b8bd83d44d2e9915edce9ba1fb
+snowballstemmer==2.2.0
+Sphinx==5.0.2
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==2.0.0
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.5
+sqlparse==0.4.2
+statsmodels==0.13.5
+sympy==1.10.1
+tables==3.7.0
+tensorboard==2.11.2
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+terminaltables==3.1.10
+Theano-PyMC==1.1.2
+threadpoolctl==3.1.0
+tifffile==2021.11.2
+tomli==2.0.1
+tomlkit==0.10.2
+torch==1.13.1
+torchsummary==1.5.1
+torchvision==0.14.1
+tornado @ file:///C:/ci/tornado_1606935947090/work
+tqdm==4.64.0
+traitlets==5.9.0
+traits==6.4.1
+traitsui==7.4.1
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+tzlocal @ file:///C:/ci/tzlocal_1597435800236/work
+urllib3==1.26.9
+utils==1.0.1
+virtualenv==20.14.1
+vtk==8.1.2
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+websockets==7.0
+Werkzeug==2.1.2
+whl==0.0.4
+widgetsnbextension==4.0.9
+wincertstore==0.2
+wrapt==1.15.0
+wslink==1.8.4
+xarray==0.20.2
+xarray-einstats==0.2.2
+xgboost==1.6.0
+yarl==1.8.1
+zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
