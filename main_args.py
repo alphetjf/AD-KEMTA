@@ -126,12 +126,12 @@ parser.add_argument('--ifTrivial', action='store_true',
 parser.add_argument('--parallel_num', type=int, default=10,
                     help='if run parallelly, do N process')
 
-parser.add_argument('--alg', type=str, default='MOEAD',
+parser.add_argument('--alg', type=str, default='AD-KEMTA',
                     help='the selected algorithm to run')
 
 parser.add_argument('--seed', type=int, default=1,
                     help='random seed')
-parser.add_argument('--print_freq', type=int, default=5000,
+parser.add_argument('--print_freq', type=int, default=100,
                     help='print running status once every __ fes in each run, trivial-5000, nontrivial-100')
 parser.add_argument('--save_freq', type=int, default=100, 
                     help='save output results once every _ fes in each run, 0 meas save the last results, -1 means no save, trivial-5000, nontrivial-100')
